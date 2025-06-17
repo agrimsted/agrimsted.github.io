@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Allison E. Grimsted"
   avatar           : "grimsted.jpeg"
-  bio              : "PhD Student in Industrial and Operations Engineering at University of Michigan <b>grimsted@umich.edu </b>"
+  bio              : "Industrial & Operations Engineering PhD Student at University of Michigan <b>grimsted@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?user=ZaQzXbUAAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  email            : #"grimsted@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "github.com/agrimsted"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/grimstedallison"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
