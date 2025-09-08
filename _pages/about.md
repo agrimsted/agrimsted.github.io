@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am a first-year PhD student of Industrial & Operations Engineering (IOE) at the University of Michigan, advised by [Professor Brian Denton](<https://btdenton.engin.umich.edu>). I am honored to be the 2025 Bonder Fellow. My research interests are in sequential decision-making and optimization under uncertainty. 
+I am a second-year PhD student of Industrial & Operations Engineering (IOE) at the University of Michigan, advised by [Professor Brian Denton](<https://btdenton.engin.umich.edu>). I am the 2025 Bonder Fellow. My research interests are in sequential decision-making and optimization under uncertainty. 
 
 Before graduate school, I worked as an Operations Research Analyst in the Decision Systems Group at the Johns Hopkins University Applied Physics Laboratory for three years. I received my Bachelor of Science in Operations Research from Cornell University in May 2021. 
