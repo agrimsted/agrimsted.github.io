@@ -1,4 +1,9 @@
-# Federal COVID-19 Response Work
+---
+layout: single
+title: "Federal COVID-19 Response Reports"
+permalink: /covid-response/
+author_profile: true
+---
 
 While working at the Johns Hopkins University Applied Physics Laboratory I contributed to the federal COVID-19 response as part of the COVID-19 Operations Team (often 20+ collaborators) from August 2021 to February 2023. 
 My role involved developing automated data analytics pipelines that integrated numerous streams of public health data into quality-controlled reports. 
