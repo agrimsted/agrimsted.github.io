@@ -15,12 +15,12 @@ This series (initially daily, then weekly) provided national and regional overvi
 
 <img src="/images/cpr_sample.jpg" alt="Community Profile Report Preview" style="width: 50%; display: block; margin: 0 auto;">
 
-[Download Full PDF](https://healthdata.gov/download/gqxm-d9w9/application%2Fpdf) | [View Dataset Page](https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9/about_data)
+[Download Full PDF](https://healthdata.gov/download/gqxm-d9w9/application%2Fpdf) \| [View Dataset Page](https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9/about_data)
 
 ## State Profile Report (Example: Michigan)
 
 This weekly series offered state-level indicators on COVID-19 trends.
 
-<img src="/images/mi-spr-preview.jpg" alt="State Profile Reports Preview" style="width: 50%; display: block; margin: 0 auto;">
+<img src="/images/mi_spr_sample.jpg" alt="State Profile Reports Preview" style="width: 50%; display: block; margin: 0 auto;">
 
-[Download Full PDF](https://healthdata.gov/download/2ig2-g9px/application%2Fpdf) | [View Dataset Page](https://healthdata.gov/Community/COVID-19-State-Profile-Report-Maryland/2ig2-g9px/about_data)
+[Download Full PDF](https://healthdata.gov/download/2ig2-g9px/application%2Fpdf) \| [View Dataset Page](https://healthdata.gov/Community/COVID-19-State-Profile-Report-Maryland/2ig2-g9px/about_data)
