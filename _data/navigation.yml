@@ -17,6 +17,9 @@ main:
         
   #- title: "Blog Posts"
     #url: /year-archive/
+
+  - title: 'Federal COVID-19 Reports'
+    url: /covid19-reports
     
   - title: "CV"
     url: /cv/
