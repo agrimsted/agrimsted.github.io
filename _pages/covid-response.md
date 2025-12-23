@@ -5,7 +5,7 @@ permalink: /covid19-reports/
 author_profile: true
 ---
 
-While working at the Johns Hopkins University Applied Physics Laboratory I contributed to the federal COVID-19 response as part of the large COVID-19 Operations Team from August 2021 to February 2023. 
+While working at the Johns Hopkins University Applied Physics Laboratory, I contributed to the federal COVID-19 response as part of the large COVID-19 Operations Team from August 2021 to February 2023. 
 My team and I developed automated data analytics pipelines that integrated numerous streams of public health data into quality-controlled reports. 
 The U.S. Department of Health and Human Services publicly disseminated these reports via healthdata.gov. Below are sample pages of two reports and links to final releases from February 2023.
 
