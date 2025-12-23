@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Federal COVID-19 Response Reports"
-permalink: /covid-response/
+permalink: /covid19-reports/
 author_profile: true
 ---
 
