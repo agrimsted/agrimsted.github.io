@@ -5,9 +5,9 @@ permalink: /covid19-reports/
 author_profile: true
 ---
 
-While working at the Johns Hopkins University Applied Physics Laboratory I contributed to the federal COVID-19 response as part of the COVID-19 Operations Team (often 20+ collaborators) from August 2021 to February 2023. 
-My role involved developing automated data analytics pipelines that integrated numerous streams of public health data into quality-controlled reports. 
-These reports were released routinely and publicly disseminated via healthdata.gov. Below are sample pages of two reports and links to example final releases from February 2023.
+While working at the Johns Hopkins University Applied Physics Laboratory I contributed to the federal COVID-19 response as part of the large COVID-19 Operations Team from August 2021 to February 2023. 
+My team and I developed automated data analytics pipelines that integrated numerous streams of public health data into quality-controlled reports. 
+The U.S. Department of Health and Human Services publicly disseminated these reports via healthdata.gov. Below are sample pages of two reports and links to final releases from February 2023.
 
 ## Community Profile Report
 
@@ -17,7 +17,7 @@ This series (initially daily, then weekly) provided national and regional overvi
 
 [Download Full PDF](https://healthdata.gov/download/gqxm-d9w9/application%2Fpdf) \| [View Dataset Page](https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9/about_data)
 
-## State Profile Report (Example: Michigan)
+## State Profile Reports (Example: Michigan)
 
 This weekly series offered state-level indicators on COVID-19 trends.
 
