@@ -13,7 +13,7 @@ The U.S. Department of Health and Human Services publicly disseminated these rep
 
 This series (initially daily, then biweekly) provided national and regional overviews of community-level impacts of COVID-19.
 
-<img src="/images/cpr_sample.jpg" alt="Community Profile Report Preview" style="width: 100%; display: block; margin: 0 auto;">
+<img src="/images/cpr_sample.jpg" alt="Community Profile Report Preview" style="width: 80%; display: block; margin: 0 auto;">
 
 [Download Full PDF](https://healthdata.gov/download/gqxm-d9w9/application%2Fpdf) \| [View Dataset Page](https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9/about_data)
 
