@@ -9,10 +9,13 @@ author_profile: true
 
 
 ## Invited Conference Presentations
+1. **Grimsted, A.**, Piri, H., Denton, B. Bartell, A. (November 2026). *A Dynamic and Resource-Aware Risk Model for Hospital Admission of Patients with Hypertensive Disorders of Pregnancy*, INFORMS Annual Meeting. 
 
-1. **Grimsted, A.**, Orfanoudaki, A., Denton, B. (March 2026). *Sample-Path Clustering for Context-Sensitive Markov Decision Processes*, INFORMS Optimization Society Conference.
+2. **Grimsted, A.**, Orfanoudaki, A., Denton, B. (2026). *Sample-Path Clustering Optimization for Context-Sensitive Markov Decision Processes*, Michigan Student Symposium for Interdisciplinary Statistical Sciences. 
 
-2. **Grimsted, A.**, Orfanoudaki, A., Denton, B. (2025). *Sample-Path Clustering for Context-Sensitive Markov Decision Processes*, INFORMS Annual Meeting.
+3. **Grimsted, A.**, Orfanoudaki, A., Denton, B. (2026). *Sample-Path Clustering for Context-Sensitive Markov Decision Processes*, INFORMS Optimization Society Conference.
+
+4. **Grimsted, A.**, Orfanoudaki, A., Denton, B. (2025). *Sample-Path Clustering for Context-Sensitive Markov Decision Processes*, INFORMS Annual Meeting.
 
 ## Invited Seminar Presentations
 
